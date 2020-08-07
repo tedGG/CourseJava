@@ -35,4 +35,10 @@ public class Animal {
     public int getAgeAnimal() {
         return AgeAnimal;
     }
+
+    @Override
+    public String toString(){
+        return "Назва тварини = " + getNameAnimal()+ "Швидкість тварини = " +
+                getSpeedAnimal() + " км/год " + "Вік тварини = " + getAgeAnimal()+ " років";
+    }
 }

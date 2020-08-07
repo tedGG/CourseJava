@@ -2,10 +2,6 @@ package com.company;
 
 public class Main {
 
-    private static Object Robot;
-    private static Object CoffeRobot;
-    private static Object RobotDancer;
-    private static Object RobotCooker;
 
     public static void main(String[] args) {
         Robot robot = new Robot();
