@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="170c3694-045a-441a-9f44-f7d8d18f964c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../lesson 7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson 7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lesson 7/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson 7/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../task 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/out/production/untitled/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/com/company/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2Interfaces/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +15,7 @@
     <session id="-1352332250">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -169,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596807717459" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596809061837" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,16 +204,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596804735798</updated>
-      <workItem from="1596804739911" duration="3106000" />
+      <workItem from="1596804739911" duration="3315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3106000" />
+    <option name="totallyTimeSpent" value="3315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -235,7 +228,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21800433" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21800433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
