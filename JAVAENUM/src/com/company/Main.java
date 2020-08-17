@@ -17,7 +17,7 @@ public class Main {
 
         if(numberCase<11){
             try {
-                throw new WrongInputConsoleParametersException("you are");
+                throw new WrongInputConsoleParametersException("such a method does not exist");
             } catch (WrongInputConsoleParametersException wrongInputConsoleParametersException) {
                 wrongInputConsoleParametersException.printStackTrace();
             }
