@@ -13,6 +13,9 @@ public enum Month {
         this.season = season;
     }
 
+    public boolean equalsIgnoreCase(String anotherString){
+        return true;
+    }
 
 
     public int getDay() {
@@ -22,5 +25,12 @@ public enum Month {
     public Seasons getSeason() {
         return season;
     }
+
+
+    @Override
+    public String toString() {
+        return String.format("Days = %d Season = %s",getDay(),getSeason());
+    }
+
 }
 
