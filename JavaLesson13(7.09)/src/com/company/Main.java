@@ -1,56 +1,45 @@
 package com.company;
 
-import java.util.*;
-import java.util.Iterator;
+
+import java.awt.*;
 
 public class Main  {
 
 
     public static void main(String[] args) {
-        String Lastname,name;
-        int age,bribesize;
-        boolean bribe_taker;
-
-        Scanner scanner =  new Scanner(System.in);
-        System.out.println("Enter the data of deputy");
-            System.out.println("Enter name:");
-            name = scanner.nextLine();
-            System.out.println("Enter lastname: ");
-            Lastname = scanner.nextLine();
-            System.out.println("Enter age: ");
-            age = scanner.nextInt();
-            System.out.println("Enter bribe: ");
-            bribesize = scanner.nextInt();
-            System.out.println("Enter whether the deputy is a bribe-taker");
-            bribe_taker = scanner.nextBoolean();
-
-            
+            Fraction.showalldelegates();
 
 
-            Deputy deputy = new Deputy(Lastname,name,age,bribe_taker,bribesize);
-            Deputy deputy1 = new Deputy(Lastname1,)
-            deputy.givebribe();
-
-            List<Deputy> list = new LinkedList<>();
-            list.add(deputy);
-
-            for(Iterator<Deputy> iterator = list.iterator();iterator.hasNext();){
-                String tmp = String.valueOf(iterator.next());
-                if(tmp.contains("true")){
-                    iterator.remove();
-                    System.out.println("Депутата хабарника видалено з фракції");
-                }
 
 
+
+    }
+    public static void Menu(){
+        Verkhovnarada verkhovnarada = new Verkhovnarada();
+
+        switch (2) {
+            case 1:{
+                verkhovnarada.addFraction();
+                break;
             }
-        System.out.println(list);
+            case 2:{
+                verkhovnarada.deleteFraction();
+                break;
+            }
+            case 3:
+                verkhovnarada.showallfraction();
+                break;
+            case 4:
+                verkhovnarada.removeFraction();
+                break;
+            case 5:
 
-
-
-
-
-
-
+            case 6:
+            case 7:
+            case 8:
+            case 9:
+            case 10:
+        }
     }
 
 
