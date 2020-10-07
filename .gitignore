@@ -1,5 +1,6 @@
 # intelij idea
-.iml
+*.iml
+*.xml
 .idea
 .idea.html
 .idea.xml
